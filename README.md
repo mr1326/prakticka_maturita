@@ -1,11 +1,11 @@
 # prakticka_maturita linky
 
 # videa
-roming a mandatory účty  
+roming a mandatory účty  <br/>
   https://www.youtube.com/watch?v=0Gu7sFbBM-c <br/>
-vytváření skupin a udělování práv 
+vytváření skupin a udělování práv <br/>
   https://www.youtube.com/watch?v=EOvGwdq5R9o<br/>
-vytvoření účtu přes cmd
+vytvoření účtu přes cmd<br/>
   https://www.youtube.com/watch?v=v1cyXajwm40<br/>
 
 # stránky
