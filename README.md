@@ -8,8 +8,13 @@ vytváření skupin a udělování práv <br/>
 vytvoření účtu přes cmd<br/>
   https://www.youtube.com/watch?v=v1cyXajwm40<br/>
 
-# stránky
-   # Java
+  # sestava
+  https://linustechtips.com/topic/1477009-psu-tier-list-rev-161a/ <br/>
+  https://www.lttlabs.com<br/>
+  https://pcpartpicker.com/?utm_source=chatgpt.com<br/>
+  https://www.serverbuilds.net/?utm_source=chatgpt.com<br/>
+  
+  # Java
   https://www.w3schools.com/java/ - W3Schools Java Tutorial – Základní výuka s editorem „Try it Yourself“ pro praktické zkoušení kódu.<br/>
       https://www.learnjavaonline.org - Learn Java Online – Interaktivní kurz pro rychlé osvojení základů.<br/>
       https://www.geeksforgeeks.org/java/ - GeeksforGeeks Java – Široké spektrum článků od základů po pokročilá témata.<br/>
